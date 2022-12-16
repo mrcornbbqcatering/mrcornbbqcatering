@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<a href="https://mrcorn.ca">u</a>
-<a rel="follow" href="https://mrcorn.ca/">See Mr Corn BBQ Catering Men</a>
+<a rel="follow" href="https://mrcorn.ca/">Mr Corn</a>
 
 <!---
 mrcornbbqcatering/mrcornbbqcatering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
